@@ -1,14 +1,6 @@
-
-
-/**
- * Hello world!
- *
- */
-public class App 
+package com.devops.guru;
+public class App{
+public static void main(String []args)
 {
-    public static void main( String[] args )
-    {
-        System.out.println( "DevOps Mastery: Version 2 is here!" );
-    }
-}
-
+System.out.println("DevOps Mastery: Version 3 is here!");
+}}
